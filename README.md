@@ -1,9 +1,2 @@
-# React Native Playground
-
-Welcome to my react native practise projects
-
-
-## Run
-
-npm i
-expo start
+# react-native-playground
+React Native practise projects
