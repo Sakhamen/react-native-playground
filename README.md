@@ -5,5 +5,5 @@ Welcome to my react native practise projects
 
 ## Run
 
-npm i
-expo start
+* Run `npm install` from the project root.
+* Run `expo start` in a terminal from the project root.
